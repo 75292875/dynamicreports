@@ -1,5 +1,5 @@
 
-module dynamicreports {
+module dynamicreports.core {
 
     requires java.desktop;
     requires java.sql;
