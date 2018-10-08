@@ -7,6 +7,10 @@ module dynamicreports {
     requires jasperreports;
     requires jfreechart;
     requires java.xml.bind;
+    requires jcommon;
+    requires commons.logging;
+    requires itext;
+    requires barcode4j;
 
     exports net.sf.dynamicreports.design.base;
     exports net.sf.dynamicreports.design.constant;
