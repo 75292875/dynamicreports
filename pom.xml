@@ -62,7 +62,7 @@
         <barbecueVersion>1.5-beta1</barbecueVersion>
         <batikbridgeVersion>1.9</batikbridgeVersion>
         <commonslangVersion>2.6</commonslangVersion>
-        <commonslang3Version>3.1</commonslang3Version>
+        <commonslang3Version>3.8.1</commonslang3Version>
         <groovyVersion>1.7.5</groovyVersion>
         <hsqldbVersion>1.8.0.10</hsqldbVersion>
         <jasperreportsVersion>6.7.0</jasperreportsVersion>

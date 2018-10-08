@@ -3,7 +3,7 @@ module dynamicreports {
 
     requires java.desktop;
     requires java.sql;
-    requires commons.lang3;
+    requires org.apache.commons.lang3;
     requires jasperreports;
     requires jfreechart;
     requires java.xml.bind;
