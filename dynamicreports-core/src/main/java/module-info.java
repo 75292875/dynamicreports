@@ -6,6 +6,7 @@ module dynamicreports.core {
     requires org.apache.commons.lang3;
     requires jasperreports;
     requires jfreechart;
+    /*To resolve ambiguous reference module problem*/
     requires java.xml.bind;
     requires jcommon;
     requires commons.logging;
